@@ -112,7 +112,7 @@ export default function Footer() {
 					</div>
 					<div>
 						<LinkHover
-							title="Website by Zain"
+							title="Website by bimal"
 							href="/"
 							className="before:h-[1px] after:h-[1px] paragraph font-medium text-secondry opacity-40 before:bottom-[-3px] after:bottom-[-3px]"
 						/>
